@@ -3,3 +3,7 @@
 This is modified and more lightweight version of original application to practice UI Automation with Playwright.
 
 The original repo is here: https://github.com/akveo/ngx-admin
+
+
+Note:
+npm start to run the app in localhost
